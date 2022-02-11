@@ -6,7 +6,7 @@
 ```json
 {
   "dependencies": {
-      "nodeProxy-signature": "git+https://gitlab.meiguipai.com/rayleigh/nodeProxy-signature.git"
+      "nodeProxy-signature": "git+https://github.com/baiedev/nodeProxy-signature.git"
   }
 }
 ```
